@@ -1,0 +1,17 @@
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Persistance.deps.json
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Persistance.runtimeconfig.json
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Persistance.dll
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Persistance.pdb
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Domain.dll
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\bin\Debug\net6.0\ContactList.Domain.pdb
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.AssemblyInfo.cs
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.csproj.CopyComplete
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.dll
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\refint\ContactList.Persistance.dll
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.pdb
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ContactList.Persistance.genruntimeconfig.cache
+C:\VisualStudioProjects\contact-list\ContactList.Persistance\obj\Debug\net6.0\ref\ContactList.Persistance.dll

@@ -1,0 +1,12 @@
+C:\VisualStudioProjects\contact-list\ContactList.Domain\bin\Debug\net6.0\ContactList.Domain.deps.json
+C:\VisualStudioProjects\contact-list\ContactList.Domain\bin\Debug\net6.0\ContactList.Domain.dll
+C:\VisualStudioProjects\contact-list\ContactList.Domain\bin\Debug\net6.0\ContactList.Domain.pdb
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.AssemblyInfo.cs
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.dll
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\refint\ContactList.Domain.dll
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ContactList.Domain.pdb
+C:\VisualStudioProjects\contact-list\ContactList.Domain\obj\Debug\net6.0\ref\ContactList.Domain.dll
