@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContactList.Controllers
 {
+
+    [Authorize(Roles = "User")]
     [ApiController]
     [Route("[controller]")]
     public class ContactController : ControllerBase
@@ -28,7 +30,6 @@ namespace ContactList.Controllers
 
         }
 
-        [Authorize(Roles = "User")]
         [HttpGet]
         [Route("{id}")]
         public async Task<Contact> GetContact(int id)
